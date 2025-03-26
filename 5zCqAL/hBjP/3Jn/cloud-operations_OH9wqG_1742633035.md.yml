@@ -72,7 +72,6 @@ issues:
   exclude:
   - "G115: integer overflow conversion (.+)"
 
-  exclude-dirs:
   - hack
   - vendor
   - pkg/apis/kubeadm
