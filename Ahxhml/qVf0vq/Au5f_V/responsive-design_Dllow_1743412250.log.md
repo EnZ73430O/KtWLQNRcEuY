@@ -97,7 +97,6 @@
   - Added comment or talk support such as 畅言、腾讯兔小巢、哔哔、 `Artitalk`;
   - Modifications to "Start Reading";
   - Modified TOC directory height to be adaptive;
-  - Fixed search related bugs；
   - Fixed Other minor bugs；
 - v1.3.2
   - Added support for traditional characters;
