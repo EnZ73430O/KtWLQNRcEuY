@@ -15,7 +15,6 @@ Please note that sometimes things are done for pedagogical reasons so changes wh
 ## Derivatives
 
 The licence must remain in all derivatives of this work.
-## Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
